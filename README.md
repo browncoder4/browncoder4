@@ -1,4 +1,3 @@
-[![MasterHead](https://present.readthedocs.io/en/latest/gallery/welcome-to-coding/)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm HARRIS</h1>
 <h3 align="center">Chai aur Code</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
